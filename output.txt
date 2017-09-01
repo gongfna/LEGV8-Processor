@@ -1,5 +1,4 @@
 Last login: Thu Dec  1 06:43:08 on ttys000
-Surajs-MacBook:~ suraj$ /Users/suraj/Desktop/completeWORKING/3/LEGLite3 ; exit;
 Instruction[pc]=[opcode,reg,reg,reg,funct]
 
 DataMemory[addr]=[read data, write data]
